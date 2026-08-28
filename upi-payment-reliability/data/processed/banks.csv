@@ -1,0 +1,11 @@
+bank_id,bank_name,bank_type
+BNK001,State Bank of India,PSU
+BNK002,HDFC Bank,Private
+BNK003,ICICI Bank,Private
+BNK004,Axis Bank,Private
+BNK005,Bank of Baroda,PSU
+BNK006,Punjab National Bank,PSU
+BNK007,Paytm Payments Bank,Payments Bank
+BNK008,Airtel Payments Bank,Payments Bank
+BNK009,Canara Bank,PSU
+BNK010,Kotak Mahindra Bank,Private

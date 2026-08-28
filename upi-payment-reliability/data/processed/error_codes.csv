@@ -1,0 +1,12 @@
+error_code,error_category,error_description,technical_or_business_decline
+ERR_SUCCESS,Success,Transaction completed successfully,N/A
+ERR_TD_01,Technical Decline,Core Banking Server (CBS) Timeout / Unresponsive,Technical Decline
+ERR_TD_02,Technical Decline,NPCI Switch Timeout,Technical Decline
+ERR_TD_03,Technical Decline,Bank CBS Connection Failure,Technical Decline
+ERR_BD_01,Business Decline,Insufficient Balance in Account,Business Decline
+ERR_BD_02,Business Decline,Invalid UPI PIN / Incorrect MPIN,Business Decline
+ERR_BD_03,Business Decline,Daily Transaction Amount Limit Exceeded,Business Decline
+ERR_BD_04,Business Decline,Daily Transaction Count Limit Exceeded,Business Decline
+ERR_BD_05,Business Decline,Account Inactive / Frozen,Business Decline
+ERR_NET_01,Timeout/Network,Network Connectivity Interrupted / Gateway Timeout,Technical Decline
+ERR_NET_02,Timeout/Network,Client Payment App Request Timeout,Technical Decline

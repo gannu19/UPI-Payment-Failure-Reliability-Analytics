@@ -1,0 +1,8 @@
+{
+  "raw_transaction_count": 50040,
+  "duplicate_transactions_removed": 40,
+  "inconsistent_bank_names_standardized": 25,
+  "invalid_amounts_dropped": 20,
+  "missing_values_imputed": 20,
+  "processed_transaction_count": 49980
+}
