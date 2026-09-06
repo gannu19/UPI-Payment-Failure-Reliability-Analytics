@@ -42,7 +42,7 @@ This portfolio project delivers an analytical pipeline evaluating **49,980 synth
 ## 🏗️ Repository Architecture
 
 ```
-upi-payment-reliability/
+upi-payment-reliability-analytics/
 │
 ├── data/
 │   ├── raw/                  # Initial synthetic dataset containing clean + anomalous records
@@ -271,8 +271,8 @@ The SQL pipeline consists of 10 PostgreSQL/DuckDB compatible scripts under `sql/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/gannu19/Fullstack-banking-system.git
-cd upi-payment-reliability
+git clone https://github.com/gannu19/upi-payment-reliability-analytics.git
+cd upi-payment-reliability-analytics
 
 # 2. Install dependencies
 pip install -r requirements.txt
